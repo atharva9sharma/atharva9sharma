@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**atharva9sharma/atharva9sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Atharva Sharma, a 3rd year B.Tech student specializing in Information Technology, looking forward for opportunities in projects related to Web Development and Cloud .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ I’m currently working on Web related projects and digging in to DevOps.
+
+✔ I’m currently learning DSA and exploring Cloud.
+
+✔ Ask me about - Development and Algos📲
+
+✔ AWS Enthusiast
+
+✔ How to reach me: LinkedIn : https://www.linkedin.com/in/atharvv9/
+
+✔ Languages Known : C || C++ || JAVA || Python
+
+✔ Stand-up 🎤 Comedian in Off time.
+
