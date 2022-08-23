@@ -12,9 +12,8 @@ I am Atharva Sharma, a 3rd year B.Tech student specializing in Information Techn
 ✔ AWS Enthusiast
 
 ✔ How to reach me: LinkedIn : https://www.linkedin.com/in/atharvv9/
+                    Mail    : atharv9sharmav@gmail.com
 
 ✔ Languages Known : C || C++ || JAVA || Python
 
 ✔ Stand-up 🎤 Comedian in Off time.
-
-You can reach out to me on:- atharv9sharmav@gmail.com
